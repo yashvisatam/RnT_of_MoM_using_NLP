@@ -1,2 +1,3 @@
 # RnT_of_MoM_using_NLP
 RnT of MoM stands for Recording and Transcription of Minutes of Meeting. 
+This software does live recording or takes a wav audio file as input. It performs sound source separation, diarization, speech to text, transcription, summarization and counting minutes. This is done using Natural Language Processing(NLP) and python libraries for processing and analysing audio. K-means clustering is performed for clustering various speakers by extracting features and grouping speakers based on similar features. Extractive summarization appproach is considered. Text rank algorithm is used for summarization. 
